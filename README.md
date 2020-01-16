@@ -1,2 +1,3 @@
 # Digital-Image-Processing
-This is a Simple MATLAB program to implement Histogram Equalization.
+1."histogram_equalization.m" is a Simple MATLAB program to implement Histogram Equalization.
+2."layers.m" 
