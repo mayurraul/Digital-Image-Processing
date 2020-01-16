@@ -1,3 +1,8 @@
+%RGB Layers seperation from the image 
+%created on: 09/01/2020
+%created By: Mayur Raul
+
+
 clc;
 clear;
 close all;
